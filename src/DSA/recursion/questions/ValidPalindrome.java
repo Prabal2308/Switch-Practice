@@ -1,6 +1,5 @@
-package DSA.questions;
+package DSA.recursion.questions;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class ValidPalindrome {

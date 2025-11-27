@@ -1,4 +1,4 @@
-package DSA.basics.recursion.Memoization;
+package DSA.recursion.Memoization;
 
 import java.util.Scanner;
 

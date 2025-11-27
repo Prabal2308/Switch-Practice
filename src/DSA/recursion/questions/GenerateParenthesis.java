@@ -1,4 +1,4 @@
-package DSA.questions.recursion;
+package DSA.recursion.questions;
 
 import DSA.utility.InputHelper;
 
