@@ -1,4 +1,4 @@
-package JavaBasics.oops.abstraction.abstractclass;
+package JavaBasics.oops.abstraction;
 
 abstract class Parent1{
     Parent1(){

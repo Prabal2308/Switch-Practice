@@ -1,4 +1,4 @@
-package JavaBasics.oops.abstraction.abstractclass;
+package JavaBasics.oops.abstraction;
 
 abstract class Subject{
     private final String subjectName;

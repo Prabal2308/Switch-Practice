@@ -1,4 +1,4 @@
-package JavaBasics.oops.abstraction.abstractclass;
+package JavaBasics.oops.abstraction;
 
 abstract class Parent4 {
     static void display() {
