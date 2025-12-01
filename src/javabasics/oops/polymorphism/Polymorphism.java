@@ -1,4 +1,4 @@
-package javabasics.polymorphism;
+package javabasics.oops.polymorphism;
 
 class Person{
     void showRole(){

@@ -1,4 +1,4 @@
-package javabasics.polymorphism.compiletime;
+package javabasics.oops.polymorphism.compiletime;
 
 public class ChangeTypeOfParam {
 

@@ -1,4 +1,4 @@
-package javabasics.polymorphism.runtime;
+package javabasics.oops.polymorphism.runtime;
 
 class A{
     void display(){
