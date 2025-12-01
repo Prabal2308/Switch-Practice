@@ -1,4 +1,4 @@
-package JavaBasics.multithreading;
+package javabasics.multithreading;
 
 //Running task on a separate thread by creating class and extending Thread class
 class World extends Thread{

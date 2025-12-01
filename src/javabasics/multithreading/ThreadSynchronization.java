@@ -1,4 +1,4 @@
-package JavaBasics.multithreading;
+package javabasics.multithreading;
 
 class Counter{
     private int counter = 0;

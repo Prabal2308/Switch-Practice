@@ -1,4 +1,4 @@
-package JavaBasics.multithreading;
+package javabasics.multithreading;
 
 public class MainThread {
 

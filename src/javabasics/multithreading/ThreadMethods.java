@@ -1,6 +1,4 @@
-package JavaBasics.multithreading;
-
-import jdk.jshell.MethodSnippet;
+package javabasics.multithreading;
 
 class Methods extends Thread{
 
