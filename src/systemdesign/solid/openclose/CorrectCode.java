@@ -2,7 +2,7 @@ package systemdesign.solid.openclose;
 
 public class CorrectCode {
 
-    static abstract class Shape{
+    abstract static class Shape{
         abstract void area();
     }
 

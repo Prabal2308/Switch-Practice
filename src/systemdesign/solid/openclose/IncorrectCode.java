@@ -25,5 +25,5 @@ public class IncorrectCode {
         rectangle.area();
     }
 
-    //Now to calculate the area of triangle, we need to modify the existin code of Shape class, which violates OCP, hence incorrect code
+    //Now to calculate the area of triangle, we need to modify the existing code of Shape class, which violates OCP, hence incorrect code
 }
